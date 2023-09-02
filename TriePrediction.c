@@ -1,7 +1,5 @@
 // Hanna Pitino
-// ha329676
-// COP3502H
-// Spring 2023
+// Trie Predicition based on corpus input file
 
 #include <ctype.h>
 #include <stdio.h>
